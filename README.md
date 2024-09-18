@@ -1,5 +1,5 @@
-# resumo--lab-dio
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+# Resumo Lab Dio
+*Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO*
 
 Então, quando você acessa a página "Todos os serviços" no Azure Portal, é como entrar em um grande menu com uma infinidade de opções! A primeira coisa que você nota é que tudo está bem organizado por categorias, o que facilita muito a busca.
 
